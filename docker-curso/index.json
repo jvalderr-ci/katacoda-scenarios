@@ -13,8 +13,7 @@
      },
     "steps": [
       {
-        "title": "Step 1",
-        "courseData": "1_pulldockerimages.sh",
+        "title": "Step 1",        
         "text": "step1.md"        
       },
       {
