@@ -4,6 +4,12 @@
   "difficulty": "Beginner",
   "time": "30",
   "details": {
+
+    "assets":{
+        "host01":[
+          {"file":"docker-compose.yml", "target":"/root"}
+        ]
+     },
     "steps": [
       {
         "title": "Step 1",
@@ -27,7 +33,7 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md"      
     },
     "finish": {
       "text": "finish.md"
