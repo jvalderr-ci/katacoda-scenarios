@@ -1,0 +1,1 @@
+En este escenario vas a aprender a versionar una BBDD con Liquibase, haciendo uso de órdenes Maven.
