@@ -7,7 +7,8 @@
 
     "assets":{
         "host01":[
-          {"file":"docker-compose.yml", "target":"/root"}
+          {"file":"docker-compose.yml", "target":"/root"},
+          {"file":"1_pulldockerimages.sh", "target":"/root", "chmod": "+x"}
         ]
      },
     "steps": [
